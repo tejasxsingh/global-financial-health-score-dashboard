@@ -13,7 +13,7 @@ It introduces a **Financial Health Score (FHS)** that combines World Bank indica
 
 
 ## 📂 Repository Structure  
-
+```
 financial-health-score-dashboard/
 ├── data/ # Raw World Bank datasets (CSV)
 ├── notebooks/ # Jupyter notebooks for cleaning & merging data
@@ -21,6 +21,7 @@ financial-health-score-dashboard/
 ├── output/ # Final cleaned dataset (financial_health_score.csv)
 ├── README.md # Project documentation
 └── LICENSE # MIT license
+```
 
 ## 🛠 How to Run Locally  
 
