@@ -5,7 +5,7 @@ This project was built for the **Tableau Next Hackathon**.
 It introduces a **Financial Health Score (FHS)** that combines World Bank indicators on consumption, savings, and credit to measure the financial wellness of countries over time.  
 
 
-## 🚀 Project Overview  
+##  Project Overview  
 - **Data Source:** World Bank Open Data  
 - **Technologies:** Python (pandas), Tableau Next (Salesforce), GitHub  
 - **Goal:** Create a Financial Health Score to help visualize and compare the financial resilience of countries globally.  
@@ -23,7 +23,7 @@ financial-health-score-dashboard/
 └── LICENSE # MIT license
 ```
 
-## 🛠 How to Run Locally  
+##  How to Run Locally  
 
 1. Clone this repo:  
    ```bash
@@ -44,16 +44,16 @@ output/financial_health_score.csv
 
 ---
 
-## 📊 Dashboard  
+##  Dashboard  
 
 The interactive dashboard is hosted inside **Tableau Next on Salesforce**.  
 👉 *[Link will be added after deployment]*
 
-## 📹 Demo Video  
+##  Demo Video  
 
 👉 *[Link to Demo Video will be added here]*  
 
-## 🧮 Financial Health Score Formula  
+##  Financial Health Score Formula  
 
 We defined the Financial Health Score (FHS) as:  
 
@@ -64,7 +64,7 @@ FHS = 100 - (0.4 \cdot \text{Consumption}) - (0.3 \cdot \text{Credit}) + (0.3 \c
 - Higher FHS → Stronger financial health (balanced spending, controlled credit, high savings).  
 - Lower FHS → At-risk economies (high consumption/credit, low savings).  
 
-## ✨ Team  
+##  Team  
 
 This project was developed as part of the Tableau Next Hackathon.  
 
@@ -74,11 +74,11 @@ This project was developed as part of the Tableau Next Hackathon.
 - **Raghumani Mehta** — *Contributor* (Add role here).  
 - **Dishika Taneja** — *Contributor* (Add role here).
 
-## 📜 License  
+##  License  
 
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
 
-## 🙌 Acknowledgements  
+##  Acknowledgements  
 
 - World Bank Open Data for providing public financial datasets.  
 - Tableau & Salesforce for enabling cloud-based analytics.  
