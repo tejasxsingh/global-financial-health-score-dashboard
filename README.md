@@ -27,7 +27,7 @@ financial-health-score-dashboard/
 
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/<your-username>/financial-health-score-dashboard.git
+   git clone https://github.com/tejasxsingh/global-financial-health-score-dashboard.git
    cd financial-health-score-dashboard
 
 Install Required Libraries:
