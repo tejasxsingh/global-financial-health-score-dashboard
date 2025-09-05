@@ -14,7 +14,7 @@ It introduces a **Financial Health Score (FHS)** that combines World Bank indica
 
 ## 📂 Repository Structure  
 ```
-financial-health-score-dashboard/
+global-financial-health-score-dashboard/
 ├── data/ # Raw World Bank datasets (CSV)
 ├── notebooks/ # Jupyter notebooks for cleaning & merging data
 │ └── data_prep.ipynb
@@ -40,7 +40,7 @@ jupyter notebook notebooks/data_prep.ipynb
 
 Run all cells to generate:
 
-output/financial_health_score.csv
+output/global-financial_health_score.csv
 
 ---
 
@@ -73,6 +73,7 @@ This project was developed as part of the Tableau Next Hackathon.
   - Led data preparation, Python coding, Tableau dashboard building, and Salesforce integration.  
 - **Raghumani Mehta** — *Contributor* (Add role here).  
 - **Dishika Taneja** — *Contributor* (Add role here).
+- **Sarah Raheja** — *Contributor* (Add role here).
 
 ##  License  
 
