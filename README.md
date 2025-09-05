@@ -47,11 +47,11 @@ output/financial_health_score.csv
 ##  Dashboard  
 
 The interactive dashboard is hosted inside **Tableau Next on Salesforce**.  
-👉 *[Link will be added after deployment]*
+ *[Link will be added after deployment]*
 
 ##  Demo Video  
 
-👉 *[Link to Demo Video will be added here]*  
+ *[Link to Demo Video will be added here]*  
 
 ##  Financial Health Score Formula  
 
