@@ -70,16 +70,6 @@ FHS = 100 - (0.4 \cdot \text{Consumption}) - (0.3 \cdot \text{Credit}) + (0.3 \c
 - Higher FHS → Stronger financial health (balanced spending, controlled credit, high savings).  
 - Lower FHS → At-risk economies (high consumption/credit, low savings).  
 
-##  Team  
-
-This project was developed as part of the Tableau Next Hackathon.  
-
-- **Tejas Singh** — *Project Lead*  
-  - Designed the Financial Health Score metric.  
-  - Led data preparation, Python coding, Tableau dashboard building, and Salesforce integration.  
-- **Raghumani Mehta** — *Contributor* (Add role here).  
-- **Dishika Taneja** — *Contributor* (Add role here).
-- **Sarah Raheja** — *Contributor* (Add role here).
 
 ##  License  
 
