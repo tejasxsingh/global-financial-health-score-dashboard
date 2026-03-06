@@ -1,5 +1,5 @@
 
-# 📊Global Financial Health Score (FHS) Dashboard  
+# Global Financial Health Score (FHS) Dashboard  
 
 This project was built for the **Tableau Next Hackathon**.  
 It introduces a **Financial Health Score (FHS)** that combines World Bank indicators on consumption, savings, and credit to measure the financial wellness of countries over time.  
@@ -18,7 +18,7 @@ We use publicly available indicators from the **World Bank Open Data** portal:
 - [Gross Savings (% of GDP)](https://data.worldbank.org/indicator/NY.GNS.ICTR.ZS)  
 - [Domestic Credit to Private Sector (% of GDP)](https://data.worldbank.org/indicator/FS.AST.PRVT.GD.ZS)  
 
-## 📂 Repository Structure  
+##  Repository Structure  
 ```
 global-financial-health-score-dashboard/
 ├── data/ # Raw World Bank datasets (CSV)
